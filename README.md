@@ -9,6 +9,8 @@ The benchmark model that will be used is the simpler model at the base of Text C
 
 The application of NLP and Text Classification which will be used in this project is referring to a Kaggle competition held in 2017-2018, the [“Toxic Comment Classification Challenge”](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge).
 
+The project proposal submitted with the previous project is [here](https://review.udacity.com/#!/reviews/3203822)
+
 ## Installation
 
 There are two main Jupyther Notebbok that have been used: 
